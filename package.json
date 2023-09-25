@@ -15,7 +15,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://brianpalay.com/",
+  "homepage": "https://bpplaysguitar.github.io/bpWebsite/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
