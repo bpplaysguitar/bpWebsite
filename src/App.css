@@ -73,7 +73,13 @@ body {
 }
 }
 .project-image3 {
-  background-image: url("/src/assets/images/bike2work.jpg");
+  background-image: url("/src/assets/images/noyes-mobile.jpg");
+}
+
+@media screen and (min-width:768px) {
+.project-image3 {
+  background-image: url("/src/assets/images/noyes-desktop.jpg");
+}
 }
 .project-image4 {
   background-image: url("/src/assets/images/readmeGenerator.jpg");

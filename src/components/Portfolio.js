@@ -17,6 +17,13 @@ const projectItems = [
     link: "#",
     backgroundImg:"project-image2"
   },
+  {
+    id: 3,
+    name: "Mobile-First Design and Accessibility Improvements for Investment Websites",
+    description: "While making content updates to a company's Wordpress sites, I addressed issues I found with responsiveness, as well as presenting vital product information via text in images, which would have posed a problem for any potential clients using screen readers.",
+    link: "#",
+    backgroundImg:"project-image3"
+  },
 
 ];
 

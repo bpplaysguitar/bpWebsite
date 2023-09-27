@@ -3,7 +3,7 @@ import React from 'react';
 function Navbar({ currentPage, handlePageChange }) {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-dark">
+      <nav className="navbar navbar-expand-md navbar-dark">
       <div className="container-fluid">
         {/* Logo */}
         <a className="navbar-brand ms-3" id="navLogo" href="/"><span id="navLogoInitials"
