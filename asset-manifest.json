@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.dcccca42.css",
-    "main.js": "/static/js/main.da28009f.js",
+    "main.js": "/static/js/main.3cae52b3.js",
     "static/media/Prevena-Demo-Desktop.png": "/static/media/Prevena-Demo-Desktop.0df345986be61c6b9f27.png",
-    "static/media/Prevena-Demo-Mobile.jpg": "/static/media/Prevena-Demo-Mobile.96189a8da7b43325ec9a.jpg",
+    "static/media/Prevena-Demo-Mobile.jpg": "/static/media/Prevena-Demo-Mobile.1a7ce342a7a9ad4020ec.jpg",
     "static/media/glitchbpopacity78.jpg": "/static/media/glitchbpopacity78.3ef7efc2a1f8730c747a.jpg",
     "static/media/prevena-demo-cover-desktop.jpg": "/static/media/prevena-demo-cover-desktop.67a99a49f7b0e2056776.jpg",
     "static/media/Eloqua-Mobile.png": "/static/media/Eloqua-Mobile.d89b3026f6b1487f888b.png",
@@ -21,10 +21,10 @@
     "static/media/javascript-quiz.jpg": "/static/media/javascript-quiz.32cc9c4672262e43f595.jpg",
     "index.html": "/index.html",
     "main.dcccca42.css.map": "/static/css/main.dcccca42.css.map",
-    "main.da28009f.js.map": "/static/js/main.da28009f.js.map"
+    "main.3cae52b3.js.map": "/static/js/main.3cae52b3.js.map"
   },
   "entrypoints": [
     "static/css/main.dcccca42.css",
-    "static/js/main.da28009f.js"
+    "static/js/main.3cae52b3.js"
   ]
 }
