@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Project2() {
+function Project3() {
   return (
     <div>
       
   <main className="container">
-  <h2 className="container pb-2 pt-4 border-bottom" id="project2">Project 2</h2>
+  <h2 className="container pb-2 pt-4 border-bottom" id="project3">Project 3</h2>
     
     
     <section className="text-center">
@@ -26,4 +26,4 @@ function Project2() {
   );
 }
 
-export default Project2;
+export default Project3;

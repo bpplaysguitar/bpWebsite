@@ -4,6 +4,8 @@ import About from './About';
 import Portfolio from './Portfolio';
 import Resume from './Resume';
 import Project1 from './Project1';
+import Project2 from './Project2';
+import Project3 from './Project3';
 
 
 function Header() {
@@ -19,6 +21,12 @@ const renderPage = () => {
   }
   if (currentPage === 'Project1') {
     return <Project1 />;
+  } 
+  if (currentPage === 'Project2') {
+    return <Project2 />;
+  } 
+  if (currentPage === 'Project3') {
+    return <Project3 />;
   } else {
     return <About />
   }

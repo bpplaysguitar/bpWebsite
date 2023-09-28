@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a7ad7f5.css",
-    "main.js": "/static/js/main.a00119d2.js",
+    "main.css": "/static/css/main.9eb6dcc9.css",
+    "main.js": "/static/js/main.314f17aa.js",
     "static/media/glitchbpopacity78.jpg": "/static/media/glitchbpopacity78.3ef7efc2a1f8730c747a.jpg",
     "static/media/prevena-demo-cover-desktop.jpg": "/static/media/prevena-demo-cover-desktop.67a99a49f7b0e2056776.jpg",
     "static/media/prevena-central-home-cover-desktop.jpg": "/static/media/prevena-central-home-cover-desktop.06a4fcaeb178ea9cada5.jpg",
     "static/media/prevena-demo-cover-mobile.jpg": "/static/media/prevena-demo-cover-mobile.6908e882b48dc0d10d03.jpg",
+    "static/media/noyes-desktop.jpg": "/static/media/noyes-desktop.f5c1ac19de396c6cb739.jpg",
     "static/media/readmeGenerator.jpg": "/static/media/readmeGenerator.0898566683eddc40e85c.jpg",
+    "static/media/noyes-mobile.jpg": "/static/media/noyes-mobile.35dc4a4cbc9d31ddde63.jpg",
     "static/media/teamProfileGenerator.jpg": "/static/media/teamProfileGenerator.f17efc243013e4d3f0f7.jpg",
     "static/media/employeeTracker.jpg": "/static/media/employeeTracker.32360ba666bf91173e55.jpg",
     "static/media/prevena-central-home-cover-mobile.jpg": "/static/media/prevena-central-home-cover-mobile.b535668919fcc83f1614.jpg",
-    "static/media/bike2work.jpg": "/static/media/bike2work.065dd7d199efaeb4a26c.jpg",
     "static/media/javascript-quiz.jpg": "/static/media/javascript-quiz.32cc9c4672262e43f595.jpg",
     "index.html": "/index.html",
-    "main.2a7ad7f5.css.map": "/static/css/main.2a7ad7f5.css.map",
-    "main.a00119d2.js.map": "/static/js/main.a00119d2.js.map"
+    "main.9eb6dcc9.css.map": "/static/css/main.9eb6dcc9.css.map",
+    "main.314f17aa.js.map": "/static/js/main.314f17aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a7ad7f5.css",
-    "static/js/main.a00119d2.js"
+    "static/css/main.9eb6dcc9.css",
+    "static/js/main.314f17aa.js"
   ]
 }
