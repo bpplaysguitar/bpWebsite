@@ -43,8 +43,8 @@ function Project1() {
       </p>
       <img className="desktop-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" src={prevenaArrowDesktop} />
       <img className="mobile-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" src={prevenaArrowMobile} />
-      </div>
       <p>Improvements like this became standard on my team - and within a large corporateion, unique to my team - and for susequest landing pages, the marketing strategists had me impliment similar designs and features to improve their campaigns.</p>
+      </div>
     </div>
 
 </main>
