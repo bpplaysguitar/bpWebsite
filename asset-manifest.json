@@ -1,8 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.dcccca42.css",
-    "main.js": "/static/js/main.3cae52b3.js",
+    "main.js": "/static/js/main.1bf3b0e2.js",
     "static/media/Prevena-Demo-Desktop.png": "/static/media/Prevena-Demo-Desktop.0df345986be61c6b9f27.png",
+    "static/media/Prevena-Central-Plastics-Desktop.jpg": "/static/media/Prevena-Central-Plastics-Desktop.c508f21133409fca5f42.jpg",
+    "static/media/Prevena-Central-Home-Desktop.jpg": "/static/media/Prevena-Central-Home-Desktop.96a948f839e14b16a058.jpg",
+    "static/media/Prevena-Central-Home-Mobile.jpg": "/static/media/Prevena-Central-Home-Mobile.a7187e9414917b8b7981.jpg",
+    "static/media/Prevena-Central-Plastics-Mobile.jpg": "/static/media/Prevena-Central-Plastics-Mobile.6eabeac3d9417b877605.jpg",
     "static/media/Prevena-Demo-Mobile.jpg": "/static/media/Prevena-Demo-Mobile.1a7ce342a7a9ad4020ec.jpg",
     "static/media/glitchbpopacity78.jpg": "/static/media/glitchbpopacity78.3ef7efc2a1f8730c747a.jpg",
     "static/media/prevena-demo-cover-desktop.jpg": "/static/media/prevena-demo-cover-desktop.67a99a49f7b0e2056776.jpg",
@@ -21,10 +25,10 @@
     "static/media/javascript-quiz.jpg": "/static/media/javascript-quiz.32cc9c4672262e43f595.jpg",
     "index.html": "/index.html",
     "main.dcccca42.css.map": "/static/css/main.dcccca42.css.map",
-    "main.3cae52b3.js.map": "/static/js/main.3cae52b3.js.map"
+    "main.1bf3b0e2.js.map": "/static/js/main.1bf3b0e2.js.map"
   },
   "entrypoints": [
     "static/css/main.dcccca42.css",
-    "static/js/main.3cae52b3.js"
+    "static/js/main.1bf3b0e2.js"
   ]
 }
