@@ -20,9 +20,10 @@ function Navbar({ currentPage, handlePageChange }) {
               <a href="#aboutme" onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="me-2 bi bi-person-fill"></i>About Me</a>
             </li>
             {/* Portfolio */}
-            <li className="nav-item">
+            {/* to be unhid when working properly  */}
+            {/* <li className="nav-item">
               <a href="#portfolio" onClick={() => handlePageChange('Portfolio')} className={currentPage === 'Portfolio' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="me-2 bi bi-images"></i>Portfolio</a>
-            </li>
+            </li> */}
             {/* Resume */}
             <li className="nav-item">
               <a href="#resume" onClick={() => handlePageChange('Resume')} className={currentPage === 'Resume' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="me-2 bi bi-file-earmark-text-fill"></i>Resume</a>
@@ -30,15 +31,15 @@ function Navbar({ currentPage, handlePageChange }) {
             {/* REMOVE PROJECTS FROM NAV */}
             {/* Project1 */}
             <li className="nav-item">
-              <a href="#project1" onClick={() => handlePageChange('Project1')} className={currentPage === 'Project1' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="me-2 bi bi-file-earmark-text-fill"></i>Project 1</a>
+              <a href="#project1" onClick={() => handlePageChange('Project1')} className={currentPage === 'Project1' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="bi bi-file-earmark-image"></i>Portfolio Project 1</a>
             </li>
             {/* Project2 */}
             <li className="nav-item">
-              <a href="#project1" onClick={() => handlePageChange('Project2')} className={currentPage === 'Project2' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="me-2 bi bi-file-earmark-text-fill"></i>Project 2</a>
+              <a href="#project1" onClick={() => handlePageChange('Project2')} className={currentPage === 'Project2' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="bi bi-file-earmark-image"></i>Portfolio Project 2</a>
             </li>
             {/* Project3 */}
             <li className="nav-item">
-              <a href="#project1" onClick={() => handlePageChange('Project3')} className={currentPage === 'Project3' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="me-2 bi bi-file-earmark-text-fill"></i>Project 3</a>
+              <a href="#project1" onClick={() => handlePageChange('Project3')} className={currentPage === 'Project3' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="bi bi-file-earmark-image"></i>Portfolio Project 3</a>
             </li>
           </ul>
         </div>

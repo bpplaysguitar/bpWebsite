@@ -34,13 +34,13 @@ function Project2() {
      In the screenshots below, the blue notes on the wireframes let the development team know what to show/hide and when. One such place is on the home page, the section with the specialty icons. The desktop version provided just what we wanted, with large and clear icons to click, but in mobile, these icons took up so much vertical space, a user would need to scroll quite a bit just to get to the end of the specialty menu. So I found a different section from our design library, with much smaller icons, and I made that the mobile version of the specialty menu.
          </p>
          <h4 className="container pb-2 pt-4">Home Page</h4>
-    <img className="desktop-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" src={prevenaCentralHomeDesktop} alt="alt text"/>
-    <img className="mobile-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" src={prevenaCentralHomeMobile} />
+    <img className="desktop-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" alt="Screenshot of home page wireframe, with text and images related to surgical incision management product" src={prevenaCentralHomeDesktop} alt="alt text"/>
+    <img className="mobile-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" alt="Screenshot of home page wireframe, with text and images related to surgical incision management product" src={prevenaCentralHomeMobile} />
     <h4 className="container pb-2 pt-4">Plastic Surgery Specialty Page</h4>
     
-      <img className="desktop-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" src={prevenaCentralPlasticsDesktop} />
+      <img className="desktop-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" alt="Screenshot of plastic surgery page wireframe, with text and images related to surgical incision management product" src={prevenaCentralPlasticsDesktop} />
      
-      <img className="mobile-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" src={prevenaCentralPlasticsMobile} />
+      <img className="mobile-only mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded" alt="Screenshot of plastic surgery page wireframe, with text and images related to surgical incision management product" src={prevenaCentralPlasticsMobile} />
       
 
            

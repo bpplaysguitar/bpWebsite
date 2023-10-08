@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dcccca42.css",
-    "main.js": "/static/js/main.1bf3b0e2.js",
+    "main.js": "/static/js/main.32493b44.js",
     "static/media/Prevena-Demo-Desktop.png": "/static/media/Prevena-Demo-Desktop.0df345986be61c6b9f27.png",
     "static/media/Prevena-Central-Plastics-Desktop.jpg": "/static/media/Prevena-Central-Plastics-Desktop.c508f21133409fca5f42.jpg",
     "static/media/Prevena-Central-Home-Desktop.jpg": "/static/media/Prevena-Central-Home-Desktop.96a948f839e14b16a058.jpg",
@@ -9,26 +9,39 @@
     "static/media/Prevena-Central-Plastics-Mobile.jpg": "/static/media/Prevena-Central-Plastics-Mobile.6eabeac3d9417b877605.jpg",
     "static/media/Prevena-Demo-Mobile.jpg": "/static/media/Prevena-Demo-Mobile.1a7ce342a7a9ad4020ec.jpg",
     "static/media/glitchbpopacity78.jpg": "/static/media/glitchbpopacity78.3ef7efc2a1f8730c747a.jpg",
+    "static/media/hhr-about-before-desktop.png": "/static/media/hhr-about-before-desktop.ab65ac369e8bd0ec1bee.png",
+    "static/media/hhr-before-1400.png": "/static/media/hhr-before-1400.465faa306b1aa73de0ce.png",
+    "static/media/hhr-about-980.png": "/static/media/hhr-about-980.635a24ec3a3ee074bb46.png",
+    "static/media/hhr-about-1400.png": "/static/media/hhr-about-1400.f34c5e6225875d6438e0.png",
     "static/media/prevena-demo-cover-desktop.jpg": "/static/media/prevena-demo-cover-desktop.67a99a49f7b0e2056776.jpg",
+    "static/media/iri-chart-1200.png": "/static/media/iri-chart-1200.56093b3b70ed5610c3ce.png",
     "static/media/Eloqua-Mobile.png": "/static/media/Eloqua-Mobile.d89b3026f6b1487f888b.png",
+    "static/media/hhr-about-768.png": "/static/media/hhr-about-768.41ea0566cc38d32b6059.png",
+    "static/media/hhr-before-980.png": "/static/media/hhr-before-980.5d566a6a11c2f18bbd24.png",
+    "static/media/iri-chart-580.png": "/static/media/iri-chart-580.e97c27bb6f37f40762f4.png",
     "static/media/Prevena-Demo-Desktop-arrow.jpg": "/static/media/Prevena-Demo-Desktop-arrow.f4d2d83dd7fd56122dd5.jpg",
+    "static/media/hhr-about-460.png": "/static/media/hhr-about-460.e89ea7cc8ba2ed8a4cc6.png",
+    "static/media/hhr-before-768.png": "/static/media/hhr-before-768.6412243eefa9fa05c1c7.png",
     "static/media/prevena-central-home-cover-desktop.jpg": "/static/media/prevena-central-home-cover-desktop.06a4fcaeb178ea9cada5.jpg",
     "static/media/prevena-demo-cover-mobile.jpg": "/static/media/prevena-demo-cover-mobile.6908e882b48dc0d10d03.jpg",
     "static/media/Eloqua-Template.jpg": "/static/media/Eloqua-Template.a9e4cd653041a204331c.jpg",
     "static/media/noyes-desktop.jpg": "/static/media/noyes-desktop.f5c1ac19de396c6cb739.jpg",
     "static/media/Prevena-Demo-Mobile-arrow.jpg": "/static/media/Prevena-Demo-Mobile-arrow.3d68a5bd38a467f34a43.jpg",
     "static/media/readmeGenerator.jpg": "/static/media/readmeGenerator.0898566683eddc40e85c.jpg",
+    "static/media/iri-chart-390.png": "/static/media/iri-chart-390.c554a05a82da096304f2.png",
     "static/media/noyes-mobile.jpg": "/static/media/noyes-mobile.35dc4a4cbc9d31ddde63.jpg",
+    "static/media/hhr-before-460.png": "/static/media/hhr-before-460.292ac916c69ec5b4421c.png",
     "static/media/teamProfileGenerator.jpg": "/static/media/teamProfileGenerator.f17efc243013e4d3f0f7.jpg",
     "static/media/employeeTracker.jpg": "/static/media/employeeTracker.32360ba666bf91173e55.jpg",
     "static/media/prevena-central-home-cover-mobile.jpg": "/static/media/prevena-central-home-cover-mobile.b535668919fcc83f1614.jpg",
     "static/media/javascript-quiz.jpg": "/static/media/javascript-quiz.32cc9c4672262e43f595.jpg",
+    "static/media/iri-comparison-chart-before-desktop.png": "/static/media/iri-comparison-chart-before-desktop.e17f5e6221af31ec57ec.png",
     "index.html": "/index.html",
     "main.dcccca42.css.map": "/static/css/main.dcccca42.css.map",
-    "main.1bf3b0e2.js.map": "/static/js/main.1bf3b0e2.js.map"
+    "main.32493b44.js.map": "/static/js/main.32493b44.js.map"
   },
   "entrypoints": [
     "static/css/main.dcccca42.css",
-    "static/js/main.1bf3b0e2.js"
+    "static/js/main.32493b44.js"
   ]
 }
