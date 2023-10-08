@@ -35,11 +35,11 @@ function Navbar({ currentPage, handlePageChange }) {
             </li>
             {/* Project2 */}
             <li className="nav-item">
-              <a href="#project1" onClick={() => handlePageChange('Project2')} className={currentPage === 'Project2' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="bi bi-file-earmark-image"></i>Portfolio Project 2</a>
+              <a href="#project2" onClick={() => handlePageChange('Project2')} className={currentPage === 'Project2' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="bi bi-file-earmark-image"></i>Portfolio Project 2</a>
             </li>
             {/* Project3 */}
             <li className="nav-item">
-              <a href="#project1" onClick={() => handlePageChange('Project3')} className={currentPage === 'Project3' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="bi bi-file-earmark-image"></i>Portfolio Project 3</a>
+              <a href="#project3" onClick={() => handlePageChange('Project3')} className={currentPage === 'Project3' ? 'nav-link active ms-4 ps-3' : 'nav-link ms-4 ps-3'}><i className="bi bi-file-earmark-image"></i>Portfolio Project 3</a>
             </li>
           </ul>
         </div>
