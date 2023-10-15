@@ -3,7 +3,7 @@ import React from 'react';
 function About() {
   return (
     <div className="aboutContainer">
-      <img class="sr-only" alt="Brian Palay" src="/src/assets/images/glitchbpopacity78.jpg"/>
+      <img class="sr-only" alt="Brian Palay" src="/src/assets/images/bpSweater.jpg"/>
    <div className="jumbotron jumbotron-fluid shadow">
   </div> 
    <section className="container my-5">

@@ -98,12 +98,12 @@ body {
 /* MAIN BODY */
 .jumbotron {
   color: black;
-  background-image: url("/src/assets/images/glitchbpopacity78.jpg");
+  background-image: url("/src/assets/images/bpSweater.jpg");
   background-position: center;
-  background-position-y: 25%;
+  background-position-y: 35%;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 600px;
+  height: 550px;
 }
 
 .connect-icon {
