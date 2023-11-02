@@ -2,13 +2,12 @@ import React from "react";
 import Footer from "./Footer";
 import { Navbar } from "./Navbar";
 
-function Header({ children }) {
+export const Layout = ({ children }) => {
   return (
-    <div>
+    <main>
       <Navbar />
-      {/* {children} */}
-    </div>
+      {children}
+      <Footer />
+    </main>
   );
-}
-
-export default Header;
+};
