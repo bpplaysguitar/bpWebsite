@@ -30,7 +30,7 @@ function Project({ projectItems }) {
                   rel="noreferrer"
                   href={projectItem.link}
                 >
-                  View Project
+                  View Project (coming soon...)
                 </a>
               </p>
             </div>
