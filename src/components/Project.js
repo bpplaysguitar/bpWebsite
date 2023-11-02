@@ -26,20 +26,13 @@ function Project({ projectItems }) {
               <p className="mb-5">
                 {/* Link Button */}
                 {/* second button is temporary */}
-                {/* <a
+                <a
                   className="btn btn-lg btn-dark text-white mx-3"
                   rel="noreferrer"
                   href={projectItem.link}
                 >
                   View Project
-                </a> */}
-                <p
-                  className="btn btn-lg btn-dark text-white mx-3"
-                  rel="noreferrer"
-                  href={projectItem.link}
-                >
-                  View Project (coming soon...)
-                </p>
+                </a>
               </p>
             </div>
           </div>

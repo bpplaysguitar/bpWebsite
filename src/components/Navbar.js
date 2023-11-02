@@ -12,18 +12,31 @@ export const Navbar = () => {
     Paths.RESUME,
   ];
 
+  // remove projects and add portfolio when working
   const links = [
     {
       name: "About Me",
       path: Paths.ABOUT,
     },
-    {
-      name: "Portfolio",
-      path: Paths.PORTFOLIO,
-    },
+    // {
+    //   name: "Portfolio",
+    //   path: Paths.PORTFOLIO,
+    // },
     {
       name: "Resume",
       path: Paths.RESUME,
+    },
+    {
+      name: "Project 1",
+      path: Paths.PROJECT1,
+    },
+    {
+      name: "Project 2",
+      path: Paths.PROJECT2,
+    },
+    {
+      name: "Project 3",
+      path: Paths.PROJECT3,
     },
   ];
 
