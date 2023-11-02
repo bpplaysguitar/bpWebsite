@@ -28,7 +28,8 @@ function Project({ projectItems }) {
                 <a
                   className="btn btn-lg btn-dark text-white mx-3"
                   rel="noreferrer"
-                  href={projectItem.link}
+                  // href={projectItem.link}
+                  href="#"
                 >
                   View Project (coming soon...)
                 </a>
