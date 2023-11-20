@@ -9,6 +9,7 @@ export const Navbar = () => {
     Paths.PROJECT1,
     Paths.PROJECT2,
     Paths.PROJECT3,
+    Paths.PROJECT4,
     Paths.RESUME,
   ];
 
@@ -27,16 +28,20 @@ export const Navbar = () => {
       path: Paths.RESUME,
     },
     {
-      name: "Project 1",
+      name: "UX Project 1",
       path: Paths.PROJECT1,
     },
     {
-      name: "Project 2",
+      name: "UX Project 2",
       path: Paths.PROJECT2,
     },
     {
-      name: "Project 3",
+      name: "UX Project 3",
       path: Paths.PROJECT3,
+    },
+    {
+      name: "3D Modeling",
+      path: Paths.PROJECT4,
     },
   ];
 

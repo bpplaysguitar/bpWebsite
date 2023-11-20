@@ -52,12 +52,13 @@ function Project1() {
             <p>
               The marketing strategists were becoming frustrated with the lack
               of customizability and unexciting visuals of their campaign
-              landing pages, so they came to me for help due to one important
-              fact: I know how to code. In addtion to the templates, a built-in
-              code editor could be used to build from scratch, and they wanted
-              my help to make the pages more interesting, and hopefully create
-              more effective marketing campaigns. So for these pages, I worked
-              as both a UX designer and a front-end developer.
+              landing pages, so they asked me to help with this since they knew
+              I had a background in web development. In addtion to the
+              templates, a built-in code editor could be used to build from
+              scratch, and they wanted my help to make the pages more
+              interesting, and hopefully create more effective marketing
+              campaigns. So for these pages, I worked as both a UX designer and
+              a front-end developer.
             </p>
             <p>
               The following page is one example of this type of work I did. The

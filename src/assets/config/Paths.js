@@ -5,5 +5,6 @@ export const Paths = {
   PROJECT1: "/project1",
   PROJECT2: "/project2",
   PROJECT3: "/project3",
+  PROJECT4: "/project4",
   RESUME: "/resume",
 };

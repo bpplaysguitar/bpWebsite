@@ -67,7 +67,7 @@ function Project3() {
               user experience.
             </p>
 
-            <h4 className="container pb-3 pt-4">CSS to the Rescue</h4>
+            <h4 className="container pb-3 pt-4">Solving with CSS</h4>
             <p>
               First, I found a WordPress pluging that allows for custom CSS
               styling. Then I replicated the visuals of the images, using HTML
