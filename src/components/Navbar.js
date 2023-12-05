@@ -10,6 +10,7 @@ export const Navbar = () => {
     Paths.PROJECT2,
     Paths.PROJECT3,
     Paths.PROJECT4,
+    Paths.PROJECT6,
     Paths.RESUME,
   ];
 
@@ -28,20 +29,24 @@ export const Navbar = () => {
       path: Paths.RESUME,
     },
     {
-      name: "UX Project 1",
+      name: "UX Course Project",
+      path: Paths.PROJECT4,
+    },
+    {
+      name: "Landing Page",
       path: Paths.PROJECT1,
     },
     {
-      name: "UX Project 2",
+      name: "Info Hub",
       path: Paths.PROJECT2,
     },
     {
-      name: "UX Project 3",
+      name: "Mobile + Accessibility",
       path: Paths.PROJECT3,
     },
     {
-      name: "3D Modeling",
-      path: Paths.PROJECT4,
+      name: "3D Work",
+      path: Paths.PROJECT6,
     },
   ];
 
@@ -50,18 +55,17 @@ export const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-md navbar-dark">
       <div className="container-fluid">
-        <Link to={Paths.HOME} className="navbar-brand ms-3" id="navLogo">
+        <Link to={Paths.HOME} className="navbar-brand ms-2 my-2" id="navLogo">
           <span
             id="navLogoInitials"
             className="rounded-circle border border-1 border-white px-2 py-0"
           >
             BP
           </span>
-          <span id="navLogoName" className="mx-3">
+          <span id="navLogoName" className="mx-2">
             Brian Palay
           </span>
         </Link>
-
         <button
           className="navbar-toggler"
           type="button"
@@ -74,7 +78,7 @@ export const Navbar = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div
-          className="collapse navbar-collapse ms-5"
+          className="collapse navbar-collapse ms-1"
           id="navbarNav"
           data-toggle="collapse"
           data-target=".navbar-collapse"
@@ -90,7 +94,7 @@ export const Navbar = () => {
                       !pathsToCheck.some((path) => loc.includes(path)))
                       ? "active"
                       : ""
-                  } ms-4 ps-3`}
+                  } ms-2 ps-3`}
                 >
                   {link.name}
                 </Link>

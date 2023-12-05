@@ -1,10 +1,5 @@
 import React from "react";
-import dumpBin from "../assets/images/dump-bin.jpg";
-import gridwallDisplay from "../assets/images/gridwall-display.jpg";
-import displayCaseLight from "../assets/images/display-case-light.jpg";
-import displayCaseDark from "../assets/images/display-case-dark.jpg";
-import slatwallDisplay from "../assets/images/slatwall-display.jpg";
-import pipeNestingTables from "../assets/images/pipe-nesting-tables.jpg";
+import prototypePreview from "../assets/images/prototype.gif";
 import { Layout } from "../components/Layout";
 
 function Project4() {
@@ -12,7 +7,7 @@ function Project4() {
     <Layout>
       <main className="container">
         <h2 className="container pb-2 pt-4 border-bottom" id="project4">
-          3D Modeling and Rendering
+          UX Design Certification Course Project
         </h2>
 
         <section className="text-center">
@@ -20,48 +15,42 @@ function Project4() {
         </section>
         <div className="container my-4" id="">
           <div className="col">
-            <p>
-              The following are examples of 3D modeling and rendering work for
-              the retail store fixtures industry.
+            <p className="my-4">
+              I am working on completing the{" "}
+              <a
+                target="_blank"
+                href="https://www.coursera.org/professional-certificates/google-ux-design"
+              >
+                Google UX Design Professional Certificate on Coursera
+              </a>
+              . It has been very fun and extremely educational for me as a
+              designer. I am halfway through course 5 of 7. I have been
+              designing an app for a sandwich shop, from paper wireframes to a
+              finished product, including UX research with real users. When the
+              project is completed, there will be an entire slide deck of it
+              here, showing every stage of the design process, but for now, feel
+              free to interact with my prototype I made in Figma.
             </p>
-
-            <img
-              className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
-              alt="Maple laminate display cases with built-in lighting in a light room"
-              src={displayCaseLight}
-            />
-            <p className="text-center mb-5">Display Cases</p>
-            <img
-              className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
-              alt="Maple laminate display cases with built-in lighting in a dark room"
-              src={displayCaseDark}
-            />
-            <p className="text-center mb-5">Display Cases</p>
-            <img
-              className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
-              alt="Gridwall display consisting of panels and connectors, holding art canvases and vases"
-              src={gridwallDisplay}
-            />
-            <p className="text-center mb-5">Gridwall Display</p>
-            <img
-              className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
-              alt="Black metal wire dump bin"
-              src={dumpBin}
-            />
-            <p className="text-center mb-5">Wire Dump Bin</p>
-
-            <img
-              className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
-              alt="Gray woodgrain laminate slatwall floor display"
-              src={slatwallDisplay}
-            />
-            <p className="text-center mb-5">Slawtall Display</p>
-            <img
-              className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
-              alt="Nesting display tables made from black metal pipe pieces and woodgrain laminate table top"
-              src={pipeNestingTables}
-            />
-            <p className="text-center mb-5">Pipe Nesting Tables</p>
+            <p className="my-4">
+              <a
+                target="_blank"
+                href="https://www.figma.com/proto/dCpvMiEMaJPJiw4HYDNvwk/Portfolio-Wireframes-UPDATED-v3?type=design&node-id=109-408&t=LvdSYcdk0uc65ivK-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=109%3A408&mode=design"
+              >
+                Interact with the Figma Prototype
+              </a>
+            </p>
+            <p className="my-4">
+              <a
+                target="_blank"
+                href="https://www.figma.com/proto/dCpvMiEMaJPJiw4HYDNvwk/Portfolio-Wireframes-UPDATED-v3?type=design&node-id=109-408&t=LvdSYcdk0uc65ivK-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=109%3A408&mode=design"
+              >
+                <img
+                  className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
+                  alt="Mobile phone frame displaying screenshot of sandwich shop app prototype"
+                  src={prototypePreview}
+                />
+              </a>
+            </p>
           </div>
         </div>
       </main>

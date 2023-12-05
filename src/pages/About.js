@@ -33,7 +33,7 @@ function About() {
             Google's UX design professional certification course (in progress),
             and was able to start working in UX design at the same time.
           </p>
-          <p className="pt-2">
+          <p className="pt-2 pb-5">
             When I'm not working, I'm...working? I keep myself busy by playing
             music gigs many weekends, and recording music at home to collaborate
             with other musicians all over the world. I'm also renovating a
