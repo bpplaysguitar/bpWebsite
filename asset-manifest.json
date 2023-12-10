@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.5a166b34.css",
-    "main.js": "/static/js/main.715ba1dd.js",
+    "main.js": "/static/js/main.596b3f90.js",
     "static/media/Prevena-Demo-Desktop.png": "/static/media/Prevena-Demo-Desktop.0df345986be61c6b9f27.png",
-    "static/media/prototype.gif": "/static/media/prototype.d4e304898fd42036957d.gif",
     "static/media/Prevena-Central-Plastics-Desktop.jpg": "/static/media/Prevena-Central-Plastics-Desktop.c508f21133409fca5f42.jpg",
     "static/media/Prevena-Central-Home-Desktop.jpg": "/static/media/Prevena-Central-Home-Desktop.96a948f839e14b16a058.jpg",
     "static/media/Prevena-Central-Home-Mobile.jpg": "/static/media/Prevena-Central-Home-Mobile.a7187e9414917b8b7981.jpg",
     "static/media/Prevena-Central-Plastics-Mobile.jpg": "/static/media/Prevena-Central-Plastics-Mobile.6eabeac3d9417b877605.jpg",
     "static/media/Prevena-Demo-Mobile.jpg": "/static/media/Prevena-Demo-Mobile.1a7ce342a7a9ad4020ec.jpg",
     "static/media/slatwall-display.jpg": "/static/media/slatwall-display.4aa5693d7bda4949b260.jpg",
+    "static/media/prototype.gif": "/static/media/prototype.3ddd5e89dc97e7488df8.gif",
     "static/media/display-case-light.jpg": "/static/media/display-case-light.448ae93e7aa99b85eadf.jpg",
     "static/media/gridwall-display.jpg": "/static/media/gridwall-display.8a48a450436b3685de92.jpg",
     "static/media/dump-bin.jpg": "/static/media/dump-bin.8a8665d59444b16f76b5.jpg",
@@ -41,10 +41,10 @@
     "static/media/iri-comparison-chart-before-desktop.png": "/static/media/iri-comparison-chart-before-desktop.e17f5e6221af31ec57ec.png",
     "index.html": "/index.html",
     "main.5a166b34.css.map": "/static/css/main.5a166b34.css.map",
-    "main.715ba1dd.js.map": "/static/js/main.715ba1dd.js.map"
+    "main.596b3f90.js.map": "/static/js/main.596b3f90.js.map"
   },
   "entrypoints": [
     "static/css/main.5a166b34.css",
-    "static/js/main.715ba1dd.js"
+    "static/js/main.596b3f90.js"
   ]
 }
