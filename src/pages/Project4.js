@@ -1,5 +1,6 @@
 import React from "react";
 import prototypePreview from "../assets/images/prototype.gif";
+import slideCover from "../assets/images/slide-cover.png";
 import { Layout } from "../components/Layout";
 
 function Project4() {
@@ -29,28 +30,8 @@ function Project4() {
               wireframes in Figma, prototyping, and user testing. Please seee
               the slide deck for more details on this project.
             </p>
-            <div className="my-5">
-              <iframe
-                src="https://docs.google.com/presentation/d/e/2PACX-1vRwcE5aXHoV9-LGhGDmLxmEPtE7O4vkRhCwGztfyG2Qvsj31NhexSqXbR-vE_mc4OqWaru8T6a44X7A/embed?start=false&loop=false&delayms=15000"
-                className="d-block mx-auto shadow border border-3 border-dark mb-3 rounded iframe"
-                frameborder="0"
-                width="960"
-                height="569"
-                allowfullscreen="true"
-                mozallowfullscreen="true"
-                webkitallowfullscreen="true"
-              ></iframe>
-            </div>
-            <p className="my-5 mx-auto text-center">
-              <a
-                target="_blank"
-                href="https://docs.google.com/presentation/d/1Lpl2apYXFdKpum3LJr-YnqZx3b1hFd0bsE3ZfXWDG2E/edit?usp=sharing"
-              >
-                View Google Slides deck
-              </a>
-            </p>
 
-            <p className="my-4">
+            <div className="my-4">
               <a
                 target="_blank"
                 href="https://www.figma.com/proto/dCpvMiEMaJPJiw4HYDNvwk/Portfolio-Wireframes-UPDATED-v3?type=design&node-id=109-408&t=LvdSYcdk0uc65ivK-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=109%3A408&mode=design"
@@ -61,13 +42,33 @@ function Project4() {
                   src={prototypePreview}
                 />
               </a>
-            </p>
+            </div>
             <p className="my-3 mx-auto text-center">
               <a
                 target="_blank"
                 href="https://www.figma.com/proto/dCpvMiEMaJPJiw4HYDNvwk/Portfolio-Wireframes-UPDATED-v3?type=design&node-id=109-408&t=LvdSYcdk0uc65ivK-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=109%3A408&mode=design"
               >
-                Interact with the Figma Prototype
+                Interact with the Figma prototype
+              </a>
+            </p>
+            <div className="my-4">
+              <a
+                target="_blank"
+                href="https://www.figma.com/proto/dCpvMiEMaJPJiw4HYDNvwk/Portfolio-Wireframes-UPDATED-v3?type=design&node-id=109-408&t=LvdSYcdk0uc65ivK-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=109%3A408&mode=design"
+              >
+                <img
+                  className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
+                  alt="Mobile phone frame displaying screenshot of sandwich shop app prototype"
+                  src={slideCover}
+                />
+              </a>
+            </div>
+            <p className="my-5 mx-auto text-center">
+              <a
+                target="_blank"
+                href="https://docs.google.com/presentation/d/1Lpl2apYXFdKpum3LJr-YnqZx3b1hFd0bsE3ZfXWDG2E/edit?usp=sharing"
+              >
+                View Google Slides deck
               </a>
             </p>
           </div>
