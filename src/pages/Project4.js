@@ -29,10 +29,10 @@ function Project4() {
               wireframes in Figma, prototyping, and user testing. Please seee
               the slide deck for more details on this project.
             </p>
-            <div className="iframe my-5">
+            <div className="my-5">
               <iframe
                 src="https://docs.google.com/presentation/d/e/2PACX-1vRwcE5aXHoV9-LGhGDmLxmEPtE7O4vkRhCwGztfyG2Qvsj31NhexSqXbR-vE_mc4OqWaru8T6a44X7A/embed?start=false&loop=false&delayms=15000"
-                className="d-block mx-auto shadow border border-3 border-dark mb-3 rounded"
+                className="d-block mx-auto shadow border border-3 border-dark mb-3 rounded iframe"
                 frameborder="0"
                 width="960"
                 height="569"

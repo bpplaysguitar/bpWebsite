@@ -35,6 +35,7 @@ body {
   /* font-family: 'Shadows Into Light', cursive; */
 }
 
+
 .project-item {
   text-align: left;
 }
@@ -177,3 +178,47 @@ body {
       display: block;
     }
     }
+
+  @media screen and (min-width:1px) {
+   .iframe {
+  width:200px;
+  height:119px;
+}}
+
+@media screen and (min-width:320px) {
+  .iframe {
+ width: 300px;
+ height:178x;
+}}
+
+@media screen and (min-width:420px) {
+  .iframe {
+ width:400px;
+ height:237px;
+}
+
+    }
+  @media screen and (min-width:768px) {
+   .iframe {
+  width:728px;
+  height:431px;
+}
+
+    }
+  @media screen and (min-width:960px) {
+   .iframe {
+  width:920px;
+  height:545px;
+}
+
+    }
+
+  @media screen and (min-width:1200px) {
+   .iframe {
+  width:1000px;
+  height:539px;
+}
+
+    }
+
+
