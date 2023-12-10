@@ -54,11 +54,11 @@ function Project4() {
             <div className="my-4">
               <a
                 target="_blank"
-                href="https://www.figma.com/proto/dCpvMiEMaJPJiw4HYDNvwk/Portfolio-Wireframes-UPDATED-v3?type=design&node-id=109-408&t=LvdSYcdk0uc65ivK-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=109%3A408&mode=design"
+                href="https://docs.google.com/presentation/d/1Lpl2apYXFdKpum3LJr-YnqZx3b1hFd0bsE3ZfXWDG2E/edit?usp=sharing"
               >
                 <img
                   className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
-                  alt="Mobile phone frame displaying screenshot of sandwich shop app prototype"
+                  alt="Cover slide for sandwich app slideshow"
                   src={slideCover}
                 />
               </a>
