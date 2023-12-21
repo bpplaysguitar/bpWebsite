@@ -1,6 +1,7 @@
 import React from "react";
 import prototypePreview from "../assets/images/prototype.gif";
 import slideCover from "../assets/images/slide-cover.png";
+import timesaver from "../assets/images/timesaver-home.jpg";
 import { Layout } from "../components/Layout";
 
 function Project4() {
@@ -8,7 +9,7 @@ function Project4() {
     <Layout>
       <main className="container">
         <h2 className="container pb-2 pt-4 border-bottom" id="project4">
-          UX Design Certification Course Project
+          UX Design Certification Course Projects
         </h2>
 
         <section className="text-center">
@@ -16,6 +17,7 @@ function Project4() {
         </section>
         <div className="container my-4" id="">
           <div className="col">
+            <h4 className="pb-2 pt-4">Sandwich Shop App</h4>
             <p className="my-4">
               This is a project I made during the{" "}
               <a
@@ -72,6 +74,17 @@ function Project4() {
               </a>
             </p>
           </div>
+          <h4 className="pb-2 pt-4">Responsive Website for Savings Goals</h4>
+          <p className="my-4">
+            This is another project, currently in progress, but the desktop
+            sized home page screenshot is worth sharing. Full case study for
+            this one to come.
+          </p>
+          <img
+            className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
+            alt="Screenshot of timersaver website"
+            src={timesaver}
+          />
         </div>
       </main>
     </Layout>

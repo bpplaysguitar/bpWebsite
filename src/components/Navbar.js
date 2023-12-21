@@ -29,7 +29,7 @@ export const Navbar = () => {
       path: Paths.RESUME,
     },
     {
-      name: "UX Course Project",
+      name: "UX Course Projects",
       path: Paths.PROJECT4,
     },
     {
