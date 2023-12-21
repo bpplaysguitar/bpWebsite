@@ -1,7 +1,8 @@
 import React from "react";
 import prototypePreview from "../assets/images/prototype.gif";
 import slideCover from "../assets/images/slide-cover.png";
-import timesaver from "../assets/images/timesaver-home.jpg";
+import timesaverHome from "../assets/images/timesaver-home.jpg";
+import timesaverWatches from "../assets/images/timesaver-watches.jpg";
 import { Layout } from "../components/Layout";
 
 function Project4() {
@@ -74,16 +75,31 @@ function Project4() {
               </a>
             </p>
           </div>
-          <h4 className="pb-2 pt-4">Responsive Website for Savings Goals</h4>
+          <h4 className="pb-2 pt-4">
+            On my desk: Responsive Website for Savings Goals
+          </h4>
           <p className="my-4">
-            This is another project, currently in progress, but the desktop
-            sized home page screenshot is worth sharing. Full case study for
-            this one to come.
+            This is what I'm working on right now. The UX design certification
+            course suggested a list of prompts to design for, and one was a
+            website that helped people save money for a goal, i.e. a vacation. I
+            liked the idea, but I'm putting my own spin on it, and making it a
+            website to help pepole realize savings for the watches they want.
+            It's a fun way to blend a hobby of mine with my UX studies. The
+            concept is that it would be free for users, and supported by
+            advertising partners; I am creating mock ads for that. Below are the
+            home page, and the page for exploring more watches, seen in their
+            current and first iterations. User testing will surely change things
+            about them when I get to that point in the design process.
           </p>
           <img
             className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
-            alt="Screenshot of timersaver website"
-            src={timesaver}
+            alt="Screenshot of timersaver website homepage"
+            src={timesaverHome}
+          />
+          <img
+            className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-3 rounded"
+            alt="Screenshot of timersaver website with many watches"
+            src={timesaverWatches}
           />
         </div>
       </main>
