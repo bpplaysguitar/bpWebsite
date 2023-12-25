@@ -7,7 +7,6 @@ export const Navbar = () => {
   const pathsToCheck = [
     Paths.PORTFOLIO,
     Paths.PROJECT1,
-    Paths.PROJECT2,
     Paths.PROJECT3,
     Paths.PROJECT4,
     Paths.PROJECT6,
@@ -29,16 +28,12 @@ export const Navbar = () => {
       path: Paths.RESUME,
     },
     {
-      name: "UX Course Projects",
+      name: "UX Case Studies",
       path: Paths.PROJECT4,
     },
     {
-      name: "Landing Page",
+      name: "Healthcare Work",
       path: Paths.PROJECT1,
-    },
-    {
-      name: "Info Hub",
-      path: Paths.PROJECT2,
     },
     {
       name: "Mobile + Accessibility",

@@ -10,7 +10,7 @@ function Project4() {
     <Layout>
       <main className="container">
         <h2 className="container pb-2 pt-4 border-bottom" id="project4">
-          UX Design Certification Course Projects
+          UX Design Case Studies
         </h2>
 
         <section className="text-center">

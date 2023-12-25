@@ -37,7 +37,7 @@ function Project3() {
               websites within the company; I wouldn't want such different color
               palettes on the same website.
             </p>
-            <h4 className="container pb-3 pt-4">Problem Images</h4>
+            <h4 className="pb-3 pt-4">Problem Images</h4>
             <p>
               This is the image that was live, serving as the entire "About"
               page for the company.
@@ -67,7 +67,7 @@ function Project3() {
               user experience.
             </p>
 
-            <h4 className="container pb-3 pt-4">Solving with CSS</h4>
+            <h4 className="pb-3 pt-4">Solving with CSS</h4>
             <p>
               First, I found a WordPress pluging that allows for custom CSS
               styling. Then I replicated the visuals of the images, using HTML
@@ -76,9 +76,7 @@ function Project3() {
               text on the page for accessibility.
             </p>
 
-            <h5 className="container pb-2 pt-4">
-              "About" page at four screen widths
-            </h5>
+            <h5 className="pb-2 pt-4">"About" page at four screen widths</h5>
 
             <img
               className="d-block mx-auto img-fluid shadow border border-3 border-dark mb-1 rounded"
@@ -105,7 +103,7 @@ function Project3() {
             />
             <p className="mb-5 text-center">460px</p>
             <p>
-              <h5 className="container pb-2 pt-4">
+              <h5 className="pb-2 pt-4">
                 Rate comparison chart at three screen widths
               </h5>
             </p>
