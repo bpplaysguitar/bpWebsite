@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.5a166b34.css",
-    "main.js": "/static/js/main.56abe170.js",
+    "main.js": "/static/js/main.13f56b61.js",
+    "static/media/timesaver-gif-preview.gif": "/static/media/timesaver-gif-preview.607d8363c6789ec53f17.gif",
     "static/media/Prevena-Demo-Desktop.png": "/static/media/Prevena-Demo-Desktop.0df345986be61c6b9f27.png",
-    "static/media/timesaver-watches.jpg": "/static/media/timesaver-watches.e972aff72235b18922e3.jpg",
-    "static/media/timesaver-home.jpg": "/static/media/timesaver-home.69da5000ec878403f8bf.jpg",
     "static/media/Prevena-Central-Plastics-Desktop.jpg": "/static/media/Prevena-Central-Plastics-Desktop.c508f21133409fca5f42.jpg",
     "static/media/Prevena-Central-Home-Desktop.jpg": "/static/media/Prevena-Central-Home-Desktop.96a948f839e14b16a058.jpg",
     "static/media/Prevena-Central-Home-Mobile.jpg": "/static/media/Prevena-Central-Home-Mobile.a7187e9414917b8b7981.jpg",
@@ -38,16 +37,17 @@
     "static/media/iri-chart-390.png": "/static/media/iri-chart-390.c554a05a82da096304f2.png",
     "static/media/noyes-mobile.jpg": "/static/media/noyes-mobile.35dc4a4cbc9d31ddde63.jpg",
     "static/media/teamProfileGenerator.jpg": "/static/media/teamProfileGenerator.f17efc243013e4d3f0f7.jpg",
+    "static/media/timesaver-slide-cover.png": "/static/media/timesaver-slide-cover.e97296a34939f99cbf57.png",
     "static/media/employeeTracker.jpg": "/static/media/employeeTracker.32360ba666bf91173e55.jpg",
     "static/media/prevena-central-home-cover-mobile.jpg": "/static/media/prevena-central-home-cover-mobile.b535668919fcc83f1614.jpg",
     "static/media/javascript-quiz.jpg": "/static/media/javascript-quiz.32cc9c4672262e43f595.jpg",
     "static/media/iri-comparison-chart-before-desktop.png": "/static/media/iri-comparison-chart-before-desktop.e17f5e6221af31ec57ec.png",
     "index.html": "/index.html",
     "main.5a166b34.css.map": "/static/css/main.5a166b34.css.map",
-    "main.56abe170.js.map": "/static/js/main.56abe170.js.map"
+    "main.13f56b61.js.map": "/static/js/main.13f56b61.js.map"
   },
   "entrypoints": [
     "static/css/main.5a166b34.css",
-    "static/js/main.56abe170.js"
+    "static/js/main.13f56b61.js"
   ]
 }

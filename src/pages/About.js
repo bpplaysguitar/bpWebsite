@@ -17,7 +17,7 @@ function About() {
           </h2>
           <p className="pt-2">
             Hi, my name is Brian Palay, and I'm a UX designer and web developer.
-            Welcome to this website I built!
+            Welcome to my website!
           </p>
           <p className="pt-2">
             Design has always been a big part of my life. I graduated from the
@@ -29,12 +29,13 @@ function About() {
             With my sights set on entering the tech world, I completed a
             six-month web development boot camp at the University of Minnesota
             in 2021, earning a certification in full-stack web development. To
-            compliment my newly-acquired development skillset, I enrolled in
-            Google's UX design professional certification course (in progress),
-            and was able to start working in UX design at the same time.
+            compliment my newly-acquired development skillset, I also completed
+            Google's UX design professional certificate course, and was able to
+            start working in UX design at the same time, learning from both over
+            the next two years.
           </p>
           <p className="pt-2 pb-5">
-            When I'm not working, I'm...working? I keep myself busy by playing
+            When I'm not working, I'm...working! I keep myself busy by playing
             music gigs many weekends, and recording music at home to collaborate
             with other musicians all over the world. I'm also renovating a
             unique, modern house I purchased in 2022.
