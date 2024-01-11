@@ -35,10 +35,10 @@ function About() {
             the next two years.
           </p>
           <p className="pt-2 pb-5">
-            When I'm not working, I'm...working! I keep myself busy by playing
-            music gigs many weekends, and recording music at home to collaborate
-            with other musicians all over the world. I'm also renovating a
-            unique, modern house I purchased in 2022.
+            Outisde of work, I enjoy playing music - which I do professionally
+            some weekends, renovating my house, and learning about AI and prompt
+            engineering, and how that will likely become a standard practice
+            within UX design.
           </p>
         </section>
       </div>
