@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e5446151.css",
-    "main.js": "/static/js/main.77ee419d.js",
+    "main.js": "/static/js/main.af5e9b6e.js",
     "static/media/timesaver-gif-preview.gif": "/static/media/timesaver-gif-preview.829a8a20b0a3f59db047.gif",
     "static/media/Prevena-Demo-Desktop.png": "/static/media/Prevena-Demo-Desktop.0df345986be61c6b9f27.png",
     "static/media/Prevena-Central-Plastics-Desktop.jpg": "/static/media/Prevena-Central-Plastics-Desktop.c508f21133409fca5f42.jpg",
@@ -44,10 +44,10 @@
     "static/media/iri-comparison-chart-before-desktop.png": "/static/media/iri-comparison-chart-before-desktop.e17f5e6221af31ec57ec.png",
     "index.html": "/index.html",
     "main.e5446151.css.map": "/static/css/main.e5446151.css.map",
-    "main.77ee419d.js.map": "/static/js/main.77ee419d.js.map"
+    "main.af5e9b6e.js.map": "/static/js/main.af5e9b6e.js.map"
   },
   "entrypoints": [
     "static/css/main.e5446151.css",
-    "static/js/main.77ee419d.js"
+    "static/js/main.af5e9b6e.js"
   ]
 }
