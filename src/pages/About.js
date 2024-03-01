@@ -21,7 +21,7 @@ function About() {
           </p>
           <p className="pt-2">
             Design has always been a big part of my life. I graduated from the
-            University of Minnesota with a Bachelor's of Arts in architecture.
+            University of Minnesota with a Bachelor of Arts in architecture.
             From there, I spent quite a few years working with all sorts of
             digital design programs, from photo editing to CAD to 3D modeling.
           </p>
@@ -29,7 +29,7 @@ function About() {
             With my sights set on entering the tech world, I completed a
             six-month web development boot camp at the University of Minnesota
             in 2021, earning a certification in full-stack web development. To
-            compliment my newly-acquired development skill set, I also completed
+            complement my newly-acquired development skill set, I also completed
             Google's UX design professional certificate course, and was able to
             start working in UX design at the same time, learning from both over
             the next two years.
