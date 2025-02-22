@@ -24,7 +24,7 @@ function About() {
             <li>UX Design</li>
             <li>Front-End Development</li>
             <li>Marketing</li>
-            <li>Guitarist/vocalist</li>
+            <li>Guitarist/Vocalist</li>
           </ul>
 
           <p className="pt-2"></p>
