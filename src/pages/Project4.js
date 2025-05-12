@@ -105,7 +105,7 @@ function Project4() {
                 Interact with the Figma prototype
               </a>
             </h5>
-            <div className="my-4">
+            {/* <div className="my-4">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -117,8 +117,8 @@ function Project4() {
                   src={slideCover}
                 />
               </a>
-            </div>
-            <h5 className="my-3 pb-5 mx-auto text-center">
+            </div> */}
+            {/* <h5 className="my-3 pb-5 mx-auto text-center">
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -126,7 +126,7 @@ function Project4() {
               >
                 View Google Slides deck
               </a>
-            </h5>
+            </h5> */}
           </div>
         </div>
       </main>
